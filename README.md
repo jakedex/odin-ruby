@@ -1,2 +1,2 @@
 # odin-ruby
-My solutions for The Odin Project's Ruby Programming course
+My solutions to [The Odin Project](http://www.theodinproject.com/home)'s [Ruby Programming](http://www.theodinproject.com/ruby-programming) course

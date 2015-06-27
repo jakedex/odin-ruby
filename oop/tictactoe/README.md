@@ -1,5 +1,5 @@
 #Tic Tac Toe
-Simple command line tic-tac-toe game where two humans can play against each other.
+A simple command line tic-tac-toe game where two humans can play against each other.
 
 ##Game
 The game starts by asking for each player's name and then displays the positions on the game board.

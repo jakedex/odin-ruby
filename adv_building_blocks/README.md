@@ -1,5 +1,5 @@
 #Advanced Building Blocks
-Some more programming programs from The Odin Project's [Projects: Advanced Building Blocks](http://www.theodinproject.com/ruby-programming/advanced-building-blocks)
+Some more programming problems from The Odin Project's [Projects: Advanced Building Blocks](http://www.theodinproject.com/ruby-programming/advanced-building-blocks)
 ##Bubble Sort
 To run, use `ruby bubble_sort.rb`.
 + `#bubble_sort` takes an array and sorts using the bubble sort method.

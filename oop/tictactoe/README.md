@@ -33,4 +33,5 @@ Your turn, Jake. Enter the position (1-9) you'd like to move.`
 position: 9
 ```
 When a player wins:
+
 `Congrats Jake, you won! It took you 3 moves.`

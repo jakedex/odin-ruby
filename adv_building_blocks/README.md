@@ -7,4 +7,4 @@ To run, use `ruby bubble_sort.rb`.
 
 ##Enumerable Methods
 To use methods, `require './enumerable_methods'`.
-+ Extend Ruby's Enumerable module with reworked implementations of each method (`#my_each` vs. `#each`).
++ Extends Ruby's Enumerable module with reworked implementations of each method (`#my_each` vs. `#each`).

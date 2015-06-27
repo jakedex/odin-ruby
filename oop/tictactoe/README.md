@@ -8,11 +8,11 @@ Welcome to Tic Tac Toe. Player 1, please enter your name: Jake
 and Player 2: Loser
 
 The positions available to play are shown below.
-1 | 2 | 3
+ 1 | 2 | 3
 ---|---|---
-4 | 5 | 6
+ 4 | 5 | 6
 ---|---|---
-7 | 8 | 9
+ 7 | 8 | 9
 ```
 A sample output of the first 2 moves:
 ```

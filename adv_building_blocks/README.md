@@ -6,5 +6,5 @@ To run, use `ruby bubble_sort.rb`.
 + `#bubble_sort_by` also sorts an array using the bubble sort method, but expects a block that's used to compare two elements of the array.
 
 ##Enumerable Methods
-To use methods, `require './enumerable_methods'.
+To use methods, `require './enumerable_methods'`.
 + Extend Ruby's Enumerable module with reworked implementations of each method (`#my_each` vs. `#each`).

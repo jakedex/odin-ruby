@@ -1,0 +1,6 @@
+task :default => :play
+
+desc "Play Tic Tac Toe game"
+task :play do
+	ruby "-w lib/run.rb"
+end

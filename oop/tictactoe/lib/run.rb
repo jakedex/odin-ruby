@@ -1,6 +1,6 @@
-require './board.rb'
-require './game.rb'
-require './player.rb'
+require_relative './board.rb'
+require_relative './game.rb'
+require_relative './player.rb'
 
 if $PROGRAM_NAME == __FILE__
   print "Welcome to Tic Tac Toe. Player 1, please enter your name: "

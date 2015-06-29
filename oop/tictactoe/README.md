@@ -1,6 +1,6 @@
 #Tic Tac Toe
 A simple command line tic-tac-toe game where two humans can play against each other.
-To play the game, enter `rake` from the tictactoe directory.
+To play the game, enter `$ rake` from the tictactoe directory.
 
 ##Game
 The game starts by asking for each player's name and then displays the positions on the game board.

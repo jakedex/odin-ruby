@@ -6,7 +6,7 @@ To run this project, open two terminal tabs and run `$ ruby server.rb` in one, a
 The user is first asked:
 `Do you want to send a GET or a POST request?`
 
-If POST is chosen, the user is then prompted for his/her name and email and the information is converted to JSON and sent to the server in the request's body.
+If POST is chosen, the user is then prompted for his/her name and email. This information is converted to JSON and sent to the server in the request's body.
 
 ### Server
 GET requests are handled by looking for the requested file and returning it if found.
